@@ -1,12 +1,12 @@
-# SpamMailZertio
+# BomberMailV1----EnzoZertio
 Lis Moi . 
 Les instructions ci-dessous :
 
 Python 2.7 Requis (Obligatoire)
 
 Ouvrir le Terminal
-Tape "cd MailSpamZertio"
-Ensuite tape "python2 MailSpamZertio.py"
+Tape "cd BomberMailV1"
+Ensuite tape "python2 BomberMailV1.py"
 
 Etape 1 : écrit ton adresse mail
 Etape 2 : écrit ton mot de passe (de ton compte gmail)
