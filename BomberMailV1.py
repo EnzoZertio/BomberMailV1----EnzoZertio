@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
-# By :                         EnzoZertio / HaXor DeRoutine    
-# Fb :                              Enzo Zertio           
-# Github :                  https://github.com/EnzoZertio
-# Gmail :                         enzozertio@gmail.com 
+# By :                                HACKZOR-GTAV           
+# Github :                  https://github.com/HACKZOR-GTAV
+# Gmail :                         hackzorgtav@gmail.com 
 ############################################# Import some lib #############################
 import os
 import random
@@ -17,7 +16,7 @@ print ('''\033[1;31m  \033[97m
  #mmmmm #"  #     m"  #" "#    m#   #"  #   #"  "   #      #    #" "# 
  #      #   #   m"    #   #   m"    #""""   #       #      #    #   # 
  #mmmmm #   #  #mmmm  "#m#"  ##mmmm "#mm"   #       "mm  mm#mm  "#m#" 
-                                                         By EnzoZertio
+                                                         By HACKZOR-GTAV
 ''') 
 print(" ")
 #########################   USER INFO #########################
