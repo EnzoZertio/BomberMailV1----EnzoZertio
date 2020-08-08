@@ -1,4 +1,4 @@
-# BomberMailV1----HACKZORGTAV
+# BomberMailV1--Sweekzi
 Lis Moi . 
 Les instructions ci-dessous :
 
@@ -18,4 +18,4 @@ Etape 6 : Et bein ya pas d'étapes 6 c'est fini ta spam ta victime ;)
 Amuse toi :) 
 
 Si t'as envie ou pas , abonne toi à ma chaine Youtube !
-Ma chaine : EnzoZertio
+Ma chaine : Sweekzi
